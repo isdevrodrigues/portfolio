@@ -32,8 +32,8 @@ export function LandingPage() {
                     <div className="space-y-4">
                         <h2 className="text-3xl font-bold">About Me</h2>
                         <p className="text-gray-500 dark:text-gray-400">
-                            Right now, I'm focused on deepening my knowledge of backend development while studying
-                            Python. I'm also preparing for the AWS Solutions Architect exam.
+                            Right now, I am focused on deepening my knowledge of backend development while studying
+                            Python. I am also preparing for the AWS Solutions Architect exam.
                         </p>
                         <p className="text-gray-500 dark:text-gray-400">
                             In my free time, I love visiting different coffee shops, experimenting with different
@@ -106,7 +106,7 @@ export function LandingPage() {
                             <CardContent>
                                 <p className="text-gray-500 dark:text-gray-400">
                                     A website hosted on AWS using Lambda, API Gateway, Amplify and CloudFront to
-                                    interact with TMDB's API for movie data retrieval and presentation.
+                                    interact with TMDBs API for movie data retrieval and presentation.
                                 </p>
                             </CardContent>
                             <CardFooter>
